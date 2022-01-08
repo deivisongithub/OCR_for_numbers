@@ -1,2 +1,2 @@
 # OCR_for_numbers
-Algorítimos de Reconhecimento ótico de caracteres para números
+Algorítimos de Reconhecimento óptico de caracteres para números
