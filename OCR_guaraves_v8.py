@@ -333,10 +333,3 @@ while True:
 
             #fecha o arquivo
             arquivo_csv.close()
-
-
-# In[ ]:
-
-
-
-
