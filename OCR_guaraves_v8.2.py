@@ -50,7 +50,7 @@ while True:
     # Processamentos na imagem (enquadramento da tela)
 
     #Abrindo imagem
-    img = cv2.imread('guaraves.jpg')
+    img = cv2.imread('Foto_camera.png')
     original = img.copy()
     #mostrar(img)
 
